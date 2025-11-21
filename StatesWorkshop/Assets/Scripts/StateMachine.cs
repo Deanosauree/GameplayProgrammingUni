@@ -8,7 +8,7 @@ public class StateMachine : MonoBehaviour
 
     private NavMeshAgent agent;
 
-    private State currentState;
+    private State currentState; 
 
     [SerializeField] List<Transform> waypoints;
 
